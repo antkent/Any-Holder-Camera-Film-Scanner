@@ -1,5 +1,4 @@
 # Any-Holder-Camera-Film-Scanner
-Design and use docs for the public domain Any Holder Camera Film Scanner.
 
 The public domain Any Holder Camera Film Scanner is a platform to enable scanning film/slides up to medium format, with a digital camera using any (most) film holders/carriers.
 
