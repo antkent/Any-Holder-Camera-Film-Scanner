@@ -1,0 +1,12 @@
+Holders; Many are available on Amazon, B&H, etc... and holder/carriers from image scanners or enlargers will likely work. The maximum width that will fit the platform is 5", with a minimum of 2.5", although you could use a narrower holder (e.g., 110 film) if needed by an offset adjustment of the guide rails. The minimum holder length is roughly 3", but longer is better, with no limit.
+
+If you plan to scan the sprocket holes, you may have a hard time finding a holder that allows it, while also holding the film flat. Sadly, Lomography has added a non-slip strip to the current version of holders, so they no longer work for this solution.
+
+Lighting: The light must have a diffuser, and the film plane should be 1" above it. A 99 CRI light source with a full spectrum diffuser would be optimal, but they are either expensive, or hard to come by. A minimum would be 96 CRI, from a reputable company. The brighter the light the better, as it allows the use of a lower ISO, which typically (but not always) increases quality.
+
+Extras: The Foot Pedal Camera Remote Trigger on Etsy; https://www.etsy.com/listing/513206387/foot-pedal-camera-remote-trigger?click_key=40b202577551925f243a03ff4e12b47ab697d706%3A513206387&click_sum=cfab1823&ref=hp_rv-1&frs=1&sts=1
+
+Software: Negative Lab Pro is a must if you are scanning negatives
+
+Reading/workflow: For more workflow detail, tips, and tools, I highly suggest "Digitizing Your Photos with Your Camera and Lightroom" https://www.damuseful.com/collections/all-products/products/digitizing-your-photographs-pdf
+
