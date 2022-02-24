@@ -1,10 +1,10 @@
-The public domain Any Holder Camera Film Scanner is a platform to enable scanning film/slides with a digital camera using any (most) film holders/carriers.
+The public domain Any Holder Camera Film Scanner is a platform to enable scanning film/slides with a digital camera using any (most) film holders/carriers. It consists of a Base Plate, Film Plate & Film Adapters, holder Guide Rails, and assorted bolts and nuts.  
 
 After sending the CAD file and having the aluminum parts cut (i.e., SendCutSend), or machined at a local machine shop, assembly is simple. 
 
 Install four 1/4-20 standoff bolts to the outer bolt holes that are long enough to lift the platform so that the film plane is at least 1" above the diffused light source when placed underneath the scanner. Add locknuts or nuts and locking washers to both the top bottom of the base.
 
-Insert the desired Film Plate and insert four 5/16-24 x 3/4" bolts from underneath the platform, and through the guide rails. Add washers on both sides, and a wing nut on the top.
+Insert the desired Film Adapter and insert four 5/16-24 x 3/4" bolts from underneath the platform, and through the guide rails. Add washers on both sides, and a wing nut on the top.
 
 Place the assembled scanner on a copystand, and roughly center under a camera. Place your high CRI and diffused light source underneath the scanner.
 
