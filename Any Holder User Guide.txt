@@ -1,4 +1,4 @@
-The public domain Any Holder Camera Film Scanner is a platform to enable scanning film/slides with a digital camera using any (most) film holders/carriers. It consists of a Base Plate, Film Plate & Film Adapters, holder Guide Rails, and assorted bolts and nuts.  
+The public domain Any Holder Camera Film Scanner is a platform to enable scanning film/slides with a digital camera using any (most) film holders/carriers. It consists of a Holder Base, Aperture Base & Aperture Plates, Holder Rails, and assorted bolts and nuts. Additionally, there are Aperture Alignment inserts for specific holders.     
 
 After sending the CAD file and having the aluminum parts cut (i.e., SendCutSend), or machined at a local machine shop, assembly is simple. 
 
